@@ -10,3 +10,7 @@ function updateBalance(value){
 console.log("Hello");
 
 console.log(balance);
+
+function f(){
+    
+}
