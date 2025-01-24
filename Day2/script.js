@@ -8,4 +8,5 @@ function updatedBalance(){
     balance+=322;
 }
 
-updatedBalnce();
+updatedBalance();
+console.log("hi");
