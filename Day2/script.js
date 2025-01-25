@@ -9,9 +9,4 @@ function updatedBalance(){
 }
 
 updatedBalance();
-console.log("hi");
-
-console.log("hello");
-
-console.log("padh lo bhai");
 console.loog(balance);
