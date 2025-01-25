@@ -19,3 +19,9 @@ function showAge(){
     console.log(age);
 }
 showAge();
+
+function showName(){
+    console.log(name);
+}
+
+showName();
