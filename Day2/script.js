@@ -13,3 +13,9 @@ console.loog(balance);
 
 console.log("I had all then most of you");
 console.log("bug final commit");
+
+
+function showAge(){
+    console.log(age);
+}
+showAge();
