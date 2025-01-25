@@ -10,3 +10,5 @@ function updatedBalance(){
 
 updatedBalance();
 console.loog(balance);
+
+console.log("bug final commit");
