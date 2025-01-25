@@ -15,7 +15,7 @@ console.log("I had all then most of you");
 console.log("bug final commit");
 
 
-function showAge(){
-    console.log(age);
+function showAge(val){
+    console.log(age+val);
 }
-showAge();
+showAge(10);
