@@ -10,3 +10,7 @@ function updatedBalance(){
 
 updatedBalance();
 console.log("hi");
+
+console.log("hello");
+
+
